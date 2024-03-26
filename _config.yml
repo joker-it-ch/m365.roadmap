@@ -4,5 +4,6 @@ plugins:
 
 title: M365 Roadmap by Joker IT
 description: Hier finden Sie alle Informationen zu den neuesten Microsoft 365 Updates
+show_downloads: false
 
 
