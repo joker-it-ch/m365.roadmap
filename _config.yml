@@ -2,5 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+title: M365 Roadmap by Joker IT
+description: Hier finden Sie alle Informationen zu den neuesten Microsoft 365 Updates
 
 
