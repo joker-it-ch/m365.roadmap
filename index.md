@@ -1,3 +1,3 @@
 ---
-title: m365.Roadmap by Joker IT AG
+title: GitPage by Joker IT AG
 ---
